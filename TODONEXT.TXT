@@ -1,0 +1,26 @@
+Wednesday 26th
+
+To do:
+
+Cube fix.
+Piano fix. (Pas through it)
+Midi 
+
+Camera Mode/Movement
+
+Loading of different files
+
+????Saving????? World dump 
+
+Lighting controls (easy peasy lemon squeezy) should be just increment ambient etc
+
+More complex worlds to interact with, each design some new objects to build with. Prisms (alpha blending??) 
+Solar System. 
+Pendulum. 
+House.
+Puzzle Game.
+Finger Shooter.
+Critters?????
+
+
+Selecting an object .... remove from world , make (in)visable ???? ... new objects .... spheres etc ?

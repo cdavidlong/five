@@ -1,0 +1,12 @@
+big:
+
+floor limiting
+sound 
+more objects ... bball net maybe ? ..piano .
+throwing ?
+bouncing on the xyz plane
+
+
+small : 
+
+limiting individual fingers
